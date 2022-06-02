@@ -1,8 +1,6 @@
-- 👋 My name is Allen Butt and my background is in Accounting.
-- 👀 I’m interested in making a career switch towards Data Analytics.
-- 🌱 I'm working on expanding my portfolio of successful data projects.
-- 💞️ I’m looking to collaborate on such projects.
-- 📫 How to reach me: allenbutt1122@hotmail.com
+My name is Allen Butt and I am an aspiring Data Analyst. My professional background has been mostly focused in Accounting (with
+an emphasis in Nonprofits). I recently finished a Master's Degree in Business Analytics and am looking for projects/opportunities
+in the world of data.
 
 <!---
 allenbutt/allenbutt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
