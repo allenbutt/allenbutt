@@ -3,6 +3,7 @@ an emphasis in Nonprofits). I recently finished a Master's Degree in Business An
 in the world of data.
 
 Portfolio Site: https://allenbutt.github.io/
+
 Linkedin: https://www.linkedin.com/in/allen-butt-53548547/
 
 <!---
